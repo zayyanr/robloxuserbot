@@ -1,2 +1,2 @@
-# Run this: \n
+Requirement:
 - `pip install requests`
