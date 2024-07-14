@@ -1,2 +1,2 @@
-# robloxuserbot
-This bot checks if a Roblox username is taken or not.
+- requires requests package
+`pip install requests`
