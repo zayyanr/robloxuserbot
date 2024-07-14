@@ -1,2 +1,2 @@
-- requires requests package
-`pip install requests`
+# Run this: \n
+- `pip install requests`
